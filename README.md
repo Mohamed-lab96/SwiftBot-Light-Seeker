@@ -3,7 +3,7 @@ A Java-based SwiftBot project that autonomously seeks light and avoids obstacles
 
 ## Features  
 ✅ Detects and moves toward light sources  
-✅ Avoids obstacles using ultrasonic sensors  
+✅ Avoids obstacles using ultra Sound  
 ✅ Uses real-time image processing for decision-making  
 
 ## How to Run  
